@@ -18,10 +18,12 @@ export class CarStore {
     // if (!noteText) { // validation
     //   throw new Error('Missing text property')
     // }
+    console.log("insert");
     return this.store.insert(car);
   };
   
   async update(props, car) {
+    console.log("update");
     return this.store.update(props, car);
   }
   

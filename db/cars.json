@@ -1,3 +1,7 @@
-{"name":"Tesla Model S","horsepower":400,"automatic":true,"releaseDate":"2009-09-30T16:40:44.958+03:00","userId":"vI1GMkzBza5i82zj","_id":"q5u8zevJ8TQqjQq6"}
-{"name":"Tesla Model S","horsepower":400,"automatic":true,"releaseDate":"2013-09-30T16:40:44.958+03:00","userId":"vI1GMkzBza5i82zj","_id":"q5u8zevJ8TQqjQq6"}
-{"name":"Tesla Model S","horsepower":420,"automatic":true,"releaseDate":"2013-09-30T16:40:44.958+03:00","userId":"vI1GMkzBza5i82zj","_id":"q5u8zevJ8TQqjQq6"}
+{"name":"VW pollo","horsepower":100,"automatic":true,"releaseDate":"2020-10-25","userId":"q5u8zevJ8TQqjQq6","_id":"IE0m3KVAzcdhXYda"}
+{"name":"Skoda Octavia","horsepower":123,"automatic":false,"releaseDate":"2016-05-30","userId":"q5u8zevJ8TQqjQq6","_id":"JXfPFddew9mzA3uo"}
+{"automatic":true,"horsepower":12,"name":"new","releaseDate":"2020-10-25","userId":"q5u8zevJ8TQqjQq6","_id":"P3bj2yBBofzeseiS"}
+{"name":"Dacia Logan","horsepower":60,"automatic":true,"releaseDate":"2013-10-25","userId":"q5u8zevJ8TQqjQq6","_id":"bBPerYqqZQ6HaIAo"}
+{"name":"IonicTest","horsepower":123,"automatic":false,"releaseDate":"2020-10-25","userId":"q5u8zevJ8TQqjQq6","_id":"sWvcaq8OhBJBaAxj"}
+{"automatic":true,"horsepower":63,"name":"TestNativce","releaseDate":"2020-10-25","userId":"q5u8zevJ8TQqjQq6","_id":"ZDM56LkPkhyxAgsS"}
+{"name":"Final Test","horsepower":1000,"automatic":true,"releaseDate":"2020-10-25","userId":"q5u8zevJ8TQqjQq6","_id":"ypfOuWEVPHVxWe0O"}

@@ -8,8 +8,8 @@ router.get('/', async (ctx) => {
   
   const response = ctx.response;
   const userId = ctx.state.user._id;
-  console.log(userId);
-  response.body = await carStore.find({ userId });
+  const list=await carStore.find({ userId });
+  response.body = list;
   response.status = 200; // ok
 });
 
@@ -31,8 +31,12 @@ router.get('/:id', async (ctx) => {
 
 const createCar = async (ctx, car, response) => {
   try {
-    
+    if (car._id !==undefined)
+    {
+      delete car._id;
+    }
     const userId = ctx.state.user._id;
+    console.log("in create car"+userId);
     car.userId = userId;
     response.body = await carStore.insert(car);
     response.status = 201; // created

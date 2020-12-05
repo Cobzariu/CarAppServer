@@ -10,6 +10,7 @@ export class CarStore {
   }
   
   async findOne(props) {
+    console.log("FIND ONE");
     return this.store.findOne(props);
   }
   

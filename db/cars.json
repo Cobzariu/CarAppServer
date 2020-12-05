@@ -1,7 +1,5 @@
-{"name":"VW pollo","horsepower":100,"automatic":true,"releaseDate":"2020-10-25","userId":"q5u8zevJ8TQqjQq6","_id":"IE0m3KVAzcdhXYda"}
-{"name":"Skoda Octavia","horsepower":123,"automatic":false,"releaseDate":"2016-05-30","userId":"q5u8zevJ8TQqjQq6","_id":"JXfPFddew9mzA3uo"}
-{"automatic":true,"horsepower":12,"name":"new","releaseDate":"2020-10-25","userId":"q5u8zevJ8TQqjQq6","_id":"P3bj2yBBofzeseiS"}
-{"name":"Dacia Logan","horsepower":60,"automatic":true,"releaseDate":"2013-10-25","userId":"q5u8zevJ8TQqjQq6","_id":"bBPerYqqZQ6HaIAo"}
-{"name":"IonicTest","horsepower":123,"automatic":false,"releaseDate":"2020-10-25","userId":"q5u8zevJ8TQqjQq6","_id":"sWvcaq8OhBJBaAxj"}
-{"automatic":true,"horsepower":63,"name":"TestNativce","releaseDate":"2020-10-25","userId":"q5u8zevJ8TQqjQq6","_id":"ZDM56LkPkhyxAgsS"}
-{"name":"Final Test","horsepower":1000,"automatic":true,"releaseDate":"2020-10-25","userId":"q5u8zevJ8TQqjQq6","_id":"ypfOuWEVPHVxWe0O"}
+{"name":"tpa","horsepower":101,"automatic":false,"releaseDate":"","status":0,"version":4,"userId":"q5u8zevJ8TQqjQq6","_id":"3EBygS7Tslil04f3"}
+{"name":"ARO","horsepower":123,"automatic":false,"releaseDate":"","status":0,"version":16,"userId":"q5u8zevJ8TQqjQq6","_id":"7rfNw6WRn6YuXF0U"}
+{"name":"ttt","horsepower":0,"automatic":false,"releaseDate":"","status":0,"version":1,"userId":"q5u8zevJ8TQqjQq6","_id":"QgATeq03DhXhoVx9"}
+{"name":"AA","horsepower":0,"automatic":false,"releaseDate":"","status":0,"version":2,"userId":"q5u8zevJ8TQqjQq6","_id":"l32p9pmmW3B2iknp"}
+{"name":"Z","horsepower":0,"automatic":false,"releaseDate":"","status":0,"version":5,"userId":"q5u8zevJ8TQqjQq6","_id":"oHHSvV1B7QXkxzMN"}
